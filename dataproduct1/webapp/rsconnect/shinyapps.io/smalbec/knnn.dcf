@@ -1,0 +1,13 @@
+name: knnn
+title: knnn
+username:
+account: smalbec
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4048388
+bundleId: 4532502
+url: https://smalbec.shinyapps.io/knnn/
+when: 1619652229.09125
+lastSyncTime: 1619652229.09125
+asMultiple: FALSE
+asStatic: FALSE
